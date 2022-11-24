@@ -10,9 +10,11 @@ body{
     margin-right: 575px;
     padding: 20px;
     border-radius: 10px;
+    width: 300px;
 }
 .mainimg{
     width: 295px;
+    border-radius: 10px;
 }
 .white{
     color: white;
@@ -34,10 +36,15 @@ p{
     margin-right: 5px;
     border: 5px white;
 }
-
-.line{
-    color: hsl(215, 100%, 48%);
+hr{
+    border-top: 1px solid  hsl(215, 51%, 70%);
+    padding: 0%;
+    border-bottom:1px solid hsl(216, 50%, 16%) ;
+    border-left: 1px solid hsl(216, 50%, 16%);
+    border-right: 1px solid hsl(216, 50%, 16%);
 }
+
+
 
 
 
